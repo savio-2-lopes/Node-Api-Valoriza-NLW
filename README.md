@@ -24,13 +24,14 @@ maratona NLW/Together, disponibilizada pela @Rocketseat.
 
 ### :pushpin: Conteúdo
 
-* [Tecnologias](#computer-technologies)
-* [Features](#rocket-features)
-* [Como Executar](#construction_worker-how-to-run)
+* [Tecnologias](#technologies)
+* [Como Executar](#run)
 * [Encontrou um bug?](#bug-issues)
-* [Licença](#closed_book-license)
+* [Licença](#license)
 
 <br>
+
+<a href="technologies" />
 
 ### :computer: Tecnologias 
 Este projeto foi feito usando as seguintes tecnologias:
@@ -41,6 +42,8 @@ Este projeto foi feito usando as seguintes tecnologias:
 * [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)   
 
 <br>
+
+<a href="run" />
 
 ### ⚙️ Rodando a Aplicação
 
@@ -57,17 +60,24 @@ $ yarn
 # Execute as Migrations para criar as tabelas do banco de dados
 $ yarn typeorm migration:run
 
+# Para criar uma nova tabela, utilize o comando abaixo
+yarn typeorm migration:create ./src/database/migrations/<MIGRATION_NAME>
+
 # Execute a Aplicação
-$ yarn run dev
+$ yarn dev
 ```
 
 <br>
+
+<a href="bug-issues" />
 
 ### :bug: Issues
 
 Sinta-se à vontade para **registrar um nova issue** no repositório [NLW Valoriza](https://github.com/savio-2-lopes/NLW-Valoriza/issues).
 
 <br>
+
+<a href="license" />
 
 ### :closed_book: License
 ---
