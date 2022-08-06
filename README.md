@@ -42,23 +42,7 @@ Este projeto foi feito usando as seguintes tecnologias:
 
 ---
 
-## 📦 Funcionalidades
-- Cadastro de usuário
-    [ x ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail    
-    [ x ] Não é permitido cadastrar usuário sem e-mail
-
-- Cadastro de TAG
-    [ x ] Não é permitido cadastrar Tag sem nome
-    [ x ] Não é permitido cadastrar mais de uma Tag com o mesmo nome    
-    [ x ] Não é permitido cadastrar por usuários que não sejam administrador
-
-- Cadastro de elogios
-    [ x ] Não é permitido um usuário cadastrar um elogio pra si
-    [ x ] Não é permiti cadastrar elogios para usuáios invalidos
-    [ x ] O susário precisa está logado na alicação
-
-
-#### :construction_worker: Rodando a Aplicação
+### ⚙️ Rodando a Aplicação
 
 ```bash
 # Clone a aplicação
