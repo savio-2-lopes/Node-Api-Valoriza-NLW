@@ -24,14 +24,14 @@ maratona NLW/Together, disponibilizada pela @Rocketseat.
 
 ### :pushpin: Conteúdo
 
-* [Tecnologias](#technologies)
-* [Como Executar](#run)
+* [Tecnologias](#computer-technologies)
+* [Como Executar](#gear-run)
 * [Encontrou um bug?](#bug-issues)
-* [Licença](#license)
+* [Licença](#closed_book-license)
 
 <br>
 
-<a href="technologies" />
+<a href="computer-technologies"></a>
 
 ### :computer: Tecnologias 
 Este projeto foi feito usando as seguintes tecnologias:
@@ -43,7 +43,7 @@ Este projeto foi feito usando as seguintes tecnologias:
 
 <br>
 
-<a href="run" />
+<a href="gear-run"></a>
 
 ### ⚙️ Rodando a Aplicação
 
@@ -69,7 +69,7 @@ $ yarn dev
 
 <br>
 
-<a href="bug-issues" />
+<a href="bug-issues"></a>
 
 ### :bug: Issues
 
@@ -77,10 +77,11 @@ Sinta-se à vontade para **registrar um nova issue** no repositório [NLW Valori
 
 <br>
 
-<a href="license" />
+<a href="closed_book-license"></a>
 
 ### :closed_book: License
 ---
+
 Released in 2022 :closed_book: License
 Este projeto está sob a licença [MIT](./LICENSE).
 
