@@ -58,10 +58,7 @@ $ cd NLW-Valoriza
 $ yarn
 
 # Execute as Migrations para criar as tabelas do banco de dados
-$ yarn typeorm migration:run
-
-# Para criar uma nova tabela, utilize o comando abaixo
-yarn typeorm migration:create ./src/database/migrations/<MIGRATION_NAME>
+$ yarn typeorm migration:run 
 
 # Execute a Aplicação
 $ yarn dev
