@@ -4,9 +4,9 @@
    <a href="https://www.linkedin.com/in/savio-lopes/">
       <img alt="Savio Lopes" src="https://img.shields.io/badge/Savio Lopes-8cc84c?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/savio-2-lopes/NLW-Valoriza?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/savio-2-lopes/NLW-Valoriza?color=8cc84c">
   <a href="https://github.com/savio-2-lopes/NLW-Valoriza/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/savio-2-lopes/NLW-Valoriza?color=774DD6">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/savio-2-lopes/NLW-Valoriza?color=8cc84c">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8cc84c">
   <a href="https://github.com/savio-2-lopes/NLW-Valoriza/stargazers">
@@ -14,11 +14,15 @@
   </a>
 </p>
 
+---
+
 > :rocket: Sobre o projeto
 **Valoriza** é um plataforma para promover o reconhecimento entre companheiros de equipe, desenvolvido durante a 
 maratona NLW/Together, disponibilizada pela @Rocketseat.
 
-# :pushpin: Conteúdo
+---
+
+## :pushpin: Conteúdo
 
 * [Tecnologias](#computer-technologies)
 * [Features](#rocket-features)
@@ -26,7 +30,9 @@ maratona NLW/Together, disponibilizada pela @Rocketseat.
 * [Encontrou um bug?](#bug-issues)
 * [Licença](#closed_book-license)
 
-# :computer: Tecnologias 
+---
+
+## :computer: Tecnologias 
 Este projeto foi feito usando as seguintes tecnologias:
 
 * [NodeJS](https://nodejs.org/en/)      
@@ -34,7 +40,9 @@ Este projeto foi feito usando as seguintes tecnologias:
 * [Typescript](https://www.typescriptlang.org/)
 * [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)   
 
-# 📦 Funcionalidades
+---
+
+## 📦 Funcionalidades
 - Cadastro de usuário
     [ x ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail    
     [ x ] Não é permitido cadastrar usuário sem e-mail
@@ -49,7 +57,8 @@ Este projeto foi feito usando as seguintes tecnologias:
     [ x ] Não é permiti cadastrar elogios para usuáios invalidos
     [ x ] O susário precisa está logado na alicação
 
-### :construction_worker: Rodando a Aplicação
+
+#### :construction_worker: Rodando a Aplicação
 
 ```bash
 # Clone a aplicação
@@ -68,7 +77,10 @@ $ yarn typeorm migration:run
 $ yarn run dev
 ```
 
-# :bug: Issues
+---
+
+## :bug: Issues
+
 Sinta-se à vontade para **registrar um nova issue** no repositório [NLW Valoriza](https://github.com/savio-2-lopes/NLW-Valoriza/issues).
 
 # :closed_book: License
