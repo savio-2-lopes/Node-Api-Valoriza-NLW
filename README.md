@@ -14,15 +14,15 @@
   </a>
 </p>
 
----
+<br>
 
 > :rocket: Sobre o projeto
 **Valoriza** é um plataforma para promover o reconhecimento entre companheiros de equipe, desenvolvido durante a 
 maratona NLW/Together, disponibilizada pela @Rocketseat.
 
----
+<br>
 
-## :pushpin: Conteúdo
+### :pushpin: Conteúdo
 
 * [Tecnologias](#computer-technologies)
 * [Features](#rocket-features)
@@ -30,9 +30,9 @@ maratona NLW/Together, disponibilizada pela @Rocketseat.
 * [Encontrou um bug?](#bug-issues)
 * [Licença](#closed_book-license)
 
----
+<br>
 
-## :computer: Tecnologias 
+### :computer: Tecnologias 
 Este projeto foi feito usando as seguintes tecnologias:
 
 * [NodeJS](https://nodejs.org/en/)      
@@ -40,7 +40,7 @@ Este projeto foi feito usando as seguintes tecnologias:
 * [Typescript](https://www.typescriptlang.org/)
 * [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)   
 
----
+<br>
 
 ### ⚙️ Rodando a Aplicação
 
@@ -61,16 +61,19 @@ $ yarn typeorm migration:run
 $ yarn run dev
 ```
 
----
+<br>
 
-## :bug: Issues
+### :bug: Issues
 
 Sinta-se à vontade para **registrar um nova issue** no repositório [NLW Valoriza](https://github.com/savio-2-lopes/NLW-Valoriza/issues).
 
-# :closed_book: License
+<br>
+
+### :closed_book: License
 ---
 Released in 2022 :closed_book: License
 Este projeto está sob a licença [MIT](./LICENSE).
----
+
+<br>
 
 Desenvolvido com 💜 por [Savio Lopes](https://github.com/savio-2-lopes), durante a trilha Node.js da NLW Together, ministrada por [danileao](https://github.com/danileao) Especialista da [Rocketseat](https://github.com/rocketseat-education) 🚀.
