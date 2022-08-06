@@ -2,15 +2,15 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/savio-lopes/">
-      <img alt="Savio Lopes" src="https://img.shields.io/badge/Savio Lopes-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Savio Lopes" src="https://img.shields.io/badge/Savio Lopes-8cc84c?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/savio-2-lopes/NLW-Valoriza?color=774DD6">
   <a href="https://github.com/savio-2-lopes/NLW-Valoriza/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/savio-2-lopes/NLW-Valoriza?color=774DD6">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-8cc84c">
   <a href="https://github.com/savio-2-lopes/NLW-Valoriza/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/savio-2-lopes/NLW-Valoriza?color=8257E5&logo=github">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/savio-2-lopes/NLW-Valoriza?color=8cc84c&logo=github">
   </a>
 </p>
 
