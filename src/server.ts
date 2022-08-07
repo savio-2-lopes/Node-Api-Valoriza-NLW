@@ -1,16 +1,10 @@
-import express from 'express'
-import 'reflect-metadata'
-import './database'
+import express from "express";
+import "./database";
+import { router } from "./routes";
 
-const app = express()
-const PORT = 3000
+const app = express();
+const PORT = 3000;
 
-app.get('/test', (request, response) => {
-  return response.send('Olá NLW')
-})
-
-app.post('/test-post', (request, response) => {
-  return response.send('Olá NLW método post')
-})
-
-app.listen(PORT, () => console.log(`server is running in ${PORT}`))
+app.use(express.json());
+app.use(router);
+app.listen(PORT, () => console.log(`server is running in ${PORT}`));
